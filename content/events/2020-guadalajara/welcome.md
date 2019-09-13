@@ -5,12 +5,15 @@ aliases = ["/events/2020-guadalajara/"]
 Description = "devopsdays Guadalajara 2020"
 +++
 
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
+
 ¡La conferencia inaugural de DevOpsDays llegará a Guadalajara en febrero de 2020! <br>
 Anunciaremos las fechas en los próximos meses del 2019.
+The Devopsdays conference arrives to Guadalajara, and it'll be on February 2020!
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+
 
 <div class = "row">
   <div class = "col-md-2">
@@ -21,14 +24,14 @@ Anunciaremos las fechas en los próximos meses del 2019.
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
