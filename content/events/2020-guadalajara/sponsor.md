@@ -3,6 +3,171 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Guadalajara 2020"
 +++
+<div class="container-fluid">
+  <div class="row justify-content-start">
+    <div class="col-md-9">
+      <div>
+      <h3></h3>
+<!-- <p>DevOpsDays Madrid is run as a single track of curated talks in the morning and in the afternoon. As a sponsor of DevOpsDays Madrid you are encouraged to participate in the event. We want you to attend the talks - We want you to get involved!</p> -->
+
+      </div>
+      <h3>Sponsorship Packages</h3>
+      <div class="table-responsive">
+      <table class="table table-bordered table-hover table-responsive-md">
+        <thead class="thead-light">
+          <tr>
+            <th scope="col">
+              <i>Packages</i>
+            </th>
+            <th scope="col">
+              <center>Community</center>
+            </th>
+            <th scope="col">
+              <center>Bronze</center>
+            </th>
+            <th scope="col">
+              <center>Silver</center>
+            </th>
+            <th scope="col">
+              <center>Gold</center>
+            </th>
+            <th scope="col">
+              <center>Platinum</center>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Logo on website</th>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Social media shout-out</th>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+            <td>
+              <center>Yes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Booth space</th>
+            <td>
+              <center> </center>
+            </td>
+            <td>
+              <center> </center>
+            </td>
+            <td>
+              <center>Shared</center>
+            </td>
+            <td>
+              <center>Own</center>
+            </td>
+            <td>
+              <center>Own + Premium placement</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Full audience pitch</th>
+            <td>
+              <center> </center>
+            </td>
+            <td>
+              <center> </center>
+            </td>
+            <td>
+              <center> </center>
+            </td>
+            <td>
+              <center>Up to 1 minute</center>
+            </td>
+            <td>
+              <center>Up to 5 minutes</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Conference pass</th>
+            <td>
+              <center> </center>
+            </td>
+            <td>
+              <center>1</center>
+            </td>
+            <td>
+              <center>2</center>
+            </td>
+            <td>
+              <center>3</center>
+            </td>
+            <td>
+              <center>4</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Price in USD*</th>
+            <td>
+              <center></center>
+            </td>
+            <td>
+              <center>$500</center>
+            </td>
+            <td>
+              <center>$1,000</center>
+            </td>
+            <td>
+              <center>$1,500</center>
+            </td>
+            <td>
+              <center>$2,000</center>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Price in MXN</th>
+            <td>
+              <center></center>
+            </td>
+            <td>
+              <center>$10,000</center>
+            </td>
+            <td>
+              <center>$20,000</center>
+            </td>
+            <td>
+              <center>$30,000</center>
+            </td>
+            <td>
+              <center>$40,000</center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <small>* May vary</small>
+      <h3></h3>
+<div>
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
